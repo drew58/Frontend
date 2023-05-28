@@ -1,0 +1,16 @@
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(225, 54, 54);
+    color: white;
+    font-weight: bold;
+}
+.navbar ul{
+    display: flex;
+    justify-content:space-between;
+    list-style: none;
+}
+.navbar ul li{
+    margin-left: 2.5rem;
+}

@@ -1,0 +1,14 @@
+
+#paragraph{
+    border: 4px solid green;
+    padding: 3rem;
+    margin: 3rem;
+}
+.children{
+    border: 4px solid green;
+    padding: 2rem;
+}
+.menu{
+    justify-content: center;
+    padding: 50px;
+}

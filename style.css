@@ -1,0 +1,35 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+h1,h2,h3,h4,h5,h6{
+    color: blue;
+    font-size: 1.5rem;
+}
+.header{
+    background-color: transparent;
+    border: 5px solid red;
+     text-align: center;
+}
+#section2 img{
+    width: 100%; 
+    margin: 5px; 
+}
+#section2 p{
+    text-align: center;
+    padding: 2rem;
+    text-decoration:underline;
+}
+.list {
+    border: 5px solid green;
+    text-align: center;
+}
+.list ul{
+    list-style: none;
+}
+.list ol{
+    list-style: none;
+}
